@@ -41,11 +41,11 @@
 /*  margin-right:0;*/
 /*}*/
 
-/*.col-8 {*/
-/*  float: left;*/
-/*  width: 66%; */
-/*  margin-right: 2%;*/
-/*}*/
+.col-8 {
+  float: left;
+  width: 66%; 
+  margin-right: 2%;
+}
 
 /*.col-4 {*/
 /*  width: 32%;*/
