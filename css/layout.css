@@ -8,36 +8,36 @@
   -moz-box-sizing: border-box;
 }
 
-.row:after {
-  content: ".";
-  display: block;
-  clear: both;
-  visibility: hidden;
-  height: 0;
-  line-height: 0;
-}
+/*.row:after {*/
+/*  content: ".";*/
+/*  display: block;*/
+/*  clear: both;*/
+/*  visibility: hidden;*/
+/*  height: 0;*/
+/*  line-height: 0;*/
+/*}*/
 
 .clear {
   clear: both;
 }
 
-.row {
-  margin-bottom:2%;
-}
+/*.row {*/
+/*  margin-bottom:2%;*/
+/*}*/
    /*Posititoning Classes */
 
-.col-4:last-child {
-  margin-right:0;
-}
+/*.col-4:last-child {*/
+/*  margin-right:0;*/
+/*}*/
 
-.col-8 {
-  float: left;
-  width: 66%; 
-  margin-right: 2%;
-}
+/*.col-8 {*/
+/*  float: left;*/
+/*  width: 66%; */
+/*  margin-right: 2%;*/
+/*}*/
 
-.col-4 {
-  width: 32%;
-  float: left;
-  margin-right: 2%;
-}
+/*.col-4 {*/
+/*  width: 32%;*/
+/*  float: left;*/
+/*  margin-right: 2%;*/
+/*}*/
