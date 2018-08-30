@@ -32,14 +32,14 @@
 
 
 
-/*.row {*/
-/*  margin-bottom:2%;*/
-/*}*/
-   /*Posititoning Classes */
+.row {
+  margin-bottom:2%;
+}
+   Posititoning Classes 
 
-/*.col-4:last-child {*/
-/*  margin-right:0;*/
-/*}*/
+.col-4:last-child {
+  margin-right:0;
+}
 
 .col-8 {
   float: left;
