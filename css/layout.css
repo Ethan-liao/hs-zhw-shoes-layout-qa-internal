@@ -21,6 +21,15 @@
   clear: both;
 }
 
+.row {
+  display:flex;
+}
+
+
+
+
+
+
 /*.row {*/
 /*  margin-bottom:2%;*/
 /*}*/
