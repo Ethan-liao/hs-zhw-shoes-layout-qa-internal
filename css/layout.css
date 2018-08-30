@@ -47,8 +47,8 @@
   margin-right: 2%;
 }
 
-/*.col-4 {*/
-/*  width: 32%;*/
-/*  float: left;*/
-/*  margin-right: 2%;*/
-/*}*/
+.col-4 {
+  width: 32%;
+  float: left;
+  margin-right: 2%;
+}
